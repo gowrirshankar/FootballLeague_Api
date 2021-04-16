@@ -3,14 +3,16 @@ using Database.Model;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace Database.Migrations
 {
     [DbContext(typeof(FootballDbContext))]
-    partial class FootballDbContextModelSnapshot : ModelSnapshot
+    [Migration("20210416170418_Seeding Data - Team")]
+    partial class SeedingDataTeam
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -48,18 +50,6 @@ namespace Database.Migrations
                     b.HasIndex("TeamId");
 
                     b.ToTable("tbl_MatchesPlayed");
-
-                    b.HasData(
-                        new
-                        {
-                            ID = 1,
-                            Draw = 0,
-                            Lost = 1,
-                            MatchesPlayed = 3,
-                            Points = 4,
-                            TeamId = 3,
-                            Won = 1
-                        });
                 });
 
             modelBuilder.Entity("Database.Model.Team", b =>
