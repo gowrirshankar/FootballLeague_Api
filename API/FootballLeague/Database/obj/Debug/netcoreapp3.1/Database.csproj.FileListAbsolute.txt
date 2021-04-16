@@ -1,0 +1,12 @@
+E:\FootballLeague\API\FootballLeague\Database\bin\Debug\netcoreapp3.1\Database.deps.json
+E:\FootballLeague\API\FootballLeague\Database\bin\Debug\netcoreapp3.1\Database.runtimeconfig.json
+E:\FootballLeague\API\FootballLeague\Database\bin\Debug\netcoreapp3.1\Database.runtimeconfig.dev.json
+E:\FootballLeague\API\FootballLeague\Database\bin\Debug\netcoreapp3.1\Database.dll
+E:\FootballLeague\API\FootballLeague\Database\bin\Debug\netcoreapp3.1\Database.pdb
+E:\FootballLeague\API\FootballLeague\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfoInputs.cache
+E:\FootballLeague\API\FootballLeague\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfo.cs
+E:\FootballLeague\API\FootballLeague\Database\obj\Debug\netcoreapp3.1\Database.csproj.CoreCompileInputs.cache
+E:\FootballLeague\API\FootballLeague\Database\obj\Debug\netcoreapp3.1\Database.dll
+E:\FootballLeague\API\FootballLeague\Database\obj\Debug\netcoreapp3.1\Database.pdb
+E:\FootballLeague\API\FootballLeague\Database\obj\Debug\netcoreapp3.1\Database.genruntimeconfig.cache
+E:\FootballLeague\API\FootballLeague\Database\obj\Debug\netcoreapp3.1\Database.csprojAssemblyReference.cache

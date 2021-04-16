@@ -1,0 +1,12 @@
+E:\FootballLeague\API\FootballLeague\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+E:\FootballLeague\API\FootballLeague\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+E:\FootballLeague\API\FootballLeague\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+E:\FootballLeague\API\FootballLeague\Repositories\bin\Debug\netcoreapp3.1\Database.dll
+E:\FootballLeague\API\FootballLeague\Repositories\bin\Debug\netcoreapp3.1\Database.pdb
+E:\FootballLeague\API\FootballLeague\Repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+E:\FootballLeague\API\FootballLeague\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+E:\FootballLeague\API\FootballLeague\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+E:\FootballLeague\API\FootballLeague\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+E:\FootballLeague\API\FootballLeague\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CopyComplete
+E:\FootballLeague\API\FootballLeague\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+E:\FootballLeague\API\FootballLeague\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
